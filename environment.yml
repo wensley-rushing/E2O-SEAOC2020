@@ -1,0 +1,11 @@
+name: e2o
+channels:
+  - conda-forge
+dependencies:
+  - tqdm
+  - comtypes
+  - pandas
+  - numpy
+pip:
+  - opensees
+
